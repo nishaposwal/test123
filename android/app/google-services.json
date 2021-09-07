@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530700196879",
+    "project_id": "yaarhelp-479bd",
+    "storage_bucket": "yaarhelp-479bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530700196879:android:d6879b5ee4c5f29664d77a",
+        "android_client_info": {
+          "package_name": "com.jayg.yaarhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530700196879-ikolca54it4l5p4p2inmhqdi09ftjq6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ve1aR0IkwxMjfrxsPSGutqZbU0Mn9to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530700196879-ikolca54it4l5p4p2inmhqdi09ftjq6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
